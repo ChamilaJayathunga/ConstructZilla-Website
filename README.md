@@ -19,5 +19,5 @@ Backend:
 ●	Font awesome libraries 
 ●	MY SQL Server
 
-plugins/revolution.zip(Exteact & Open Project)
-Admin/plugins.zip,vendor.zip,assets.zip(Exteact & Open Project)
+plugins/revolution.zip(Exteact & Open Project) ||
+  Admin/plugins.zip,vendor.zip,assets.zip(Exteact & Open Project)
