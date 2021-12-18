@@ -1,3 +1,5 @@
+ConstructZilla web application - (2021)
+
 Website created for the construction industry. The construction industry is an essential service to us. With corona status, the construction industry is facing problems.  If the traditional process when needed to do construction work searching for mason bass going everywhere, finding the raw material at the required prices, finding constructors, finding engineers, finding who draws the plan, etc. should be performed. This is a very difficult thing today. Through technological methods, it would be great if all of this could be done in one place. So to solve the problem in this constructor set I intended to create this website.   This proposal also includes the features and process of the website. This will be a great help for anyone looking to build and implement.
 
 The project, "ConstructZilla web application", is the system that provides clients the opportunity to found constructors as per their occasion (e.g.: plan makes, engineers, etc.) 
